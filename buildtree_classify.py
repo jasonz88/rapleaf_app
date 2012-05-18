@@ -1,6 +1,7 @@
 #This procedure build the decision tree and returns the classification result
 #argv[1]: minimun gain of the tree for post pruning
 #argv[2]: email address for classify
+#output: printed and drawed decision tree, classification result
 
 import sys
 import decisiontree
